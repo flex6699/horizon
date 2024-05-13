@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact us</h1>
-        <p className="p__opensans">Ratajczaka 69, 61-891 Poznań, Poland</p>
-        <p className="p__opensans">(+48)721-343-699</p>
-        <p className="p__opensans">(+48)721-545-688</p>
+        <p className="p__opensans">xxxxxxx, xxxxxxx, Bageshwar</p>
+        <p className="p__opensans">(+91)721-343-699</p>
+        <p className="p__opensans">(+91)721-545-688</p>
       </div>
       <div className="app__footer-links_logo">
         <img src={images.gourmet} alt="footer_logo" />
